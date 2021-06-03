@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of William Spencer of Kilcolman in the county of Cork in the kingdom of Ireland, Esq; grandson and heir to Edmond Spencer the poet.</title>
+            <author>Spencer, William, fl. 1701.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18735</idno><idno type="EEBO-CITATION">99882383</idno>
+  <idno type="VID">188581</idno>
+  <idno type="EEBO-PROQUEST">2248518473</idno>
+  
+            <idno type="STC">Wing C1196C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[42]</idno>
+            <idno type="STC">ESTC N61330</idno>
+            <idno type="PROQUEST">ocm99882383</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882383e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188581)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of William Spencer of Kilcolman in the county of Cork in the kingdom of Ireland, Esq; grandson and heir to Edmond Spencer the poet.</title>
+                  <author>Spencer, William, fl. 1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1701]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>With a docket title.</note>
+                  <note>Wing CD-ROM, 1996 suggests date of 1698?.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Spencer, William, fl.1701 --  Trials, litigation, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188581:1"/>
+            <head>THE CASE OF William Spencer <hi>of</hi> Kilcolman <hi>in the County of</hi> Cork <hi>in the Kingdom of</hi> Ireland, <hi>Esq; Grandson and Heir to</hi> Edmond Spencer <hi>the Poet.</hi>
+            </head>
+            <p>THAT <hi>Sylvanus Spencer</hi> Esq; Father of <hi>William,</hi> in his life time, in order to prefer his second Brother <hi>Peregrine</hi> in Marraiage; did give and Assign to him part of his Estate in the said County of <hi>Cork.</hi>
+            </p>
+            <p>
+               <hi>Peregrine</hi> dies, and that part of the Estate that was settled on him by <hi>Silvanus,</hi> descended and came to <hi>Hugoline</hi> Son of the said <hi>Peregrine.</hi>
+            </p>
+            <p>
+               <hi>Hugoline</hi> being seiz'd and possess'd of the said Estate, was Out-law'd for Treason and Rebel<g ref="char:EOLhyphen"/>lion after the late Revolution.</p>
+            <p>
+               <hi>William Spencer</hi> finding <hi>Hugolines</hi> Estate vested in the King, and being the next Protestant Heir, as also Heir at Law to him, that part of the Estate being formerly vested in <hi>Silvanus,</hi> to whom <hi>William</hi> was Eldest Son and Heir) did apply himself to His Majesty for a grant thereof, and by his Petition did set forth his Claim to the said Estate, and also his Services, Sufferings, and Los<g ref="char:EOLhyphen"/>ses in the late Rebellion in <hi>Ireland,</hi> in behalf of the Government, which are very well known.</p>
+            <p>Upon which Petition his Majesty was Graciously pleased to refer the same to the Lords Com<g ref="char:EOLhyphen"/>missioners of the Treasury in <hi>England,</hi> and they were pleased to refer it further to the Earls of <hi>Montrath, Drogheda,</hi> and <hi>Galloway,</hi> then Lords Justices of <hi>Ireland,</hi> to Examin the Matter and make their Report.</p>
+            <p>The Lords Justices Reported it back to the Lords of the Treasury of <hi>England;</hi> wherein they recommend the said <hi>William</hi> to His Majesty for his great Services, sufferings, and Losses in the late Troubles, and that he was next Protestant Heir to <hi>Hugoline,</hi> and to deserve His Majesty's Grace and Favour.</p>
+            <p>His Majesty was thereupon Graciously pleased to Grant the said <hi>Hugolines</hi> Estate, to the said <hi>William,</hi> by his Letters Patents bearing date at <hi>Dublin</hi> the Fourteenth day of <hi>June,</hi> in the Ninth year of His Raign.</p>
+            <p>That the said Estate was then of the Yearly value of Sixty seven Pounds seventeen Shillings and Sixpence.</p>
+            <p>That there is a Mortgage upon the said Estate for five hundred Pounds, which is yet unpaid.</p>
+            <p>That it Cost the said <hi>William</hi> above six hundred Pounds, the best part of his Fortune in im<g ref="char:EOLhyphen"/>proving the said Estate, and procuring the said Grant, and hath receiv'd little or no profit thereof.</p>
+            <p>For by a late Act of Parliament, all Grants were made void in <hi>Ireland,</hi> and the Forfeited Estates were vested in Trustees, to be sold for the use of the Publick, and whilst that Act was in Agitation the said <hi>William</hi> was so disabled by sickness, that he could not apply himself to this Honourable House for a saving Clause, whereby the Trustees have dispossessed the said <hi>William</hi> of the said Estate, without any manner of consideration for his improvments and other Charges about the same, to his utter ruin and impoverishment.</p>
+            <p>That this is conceiv'd to be the only Case of this nature in the whole Kingdom of <hi>Ireland,</hi> he being the next Protestant Heir, and whose Grand-father <hi>Edmond Spencer,</hi> by his Book Entitul'd, a View of <hi>Ireland</hi> modled the settlement of that Kingdom, and these Lands were given him by Queen <hi>Elizabeth</hi> of Blessed memory for his services to the Crown.</p>
+            <div type="part">
+               <p>THAT you Petitioner having apply'd himself to this Honorable House last Sessions of Parliament for releif herein.</p>
+               <p>The Petition was refer'd to the Trustees then in <hi>England,</hi> who Reported the same to this Honorable House, and upon further consideration of that Report, the same was refer'd to the Trustees in <hi>Ireland,</hi> who now have made there Report to this effect.</p>
+               <p>That the Petitioner was very serviceable to the Publick, by being a Guide to His Majesty's General the Earl of <hi>Arthlone,</hi> during the late Wars in that Kingdom.</p>
+               <p>That he had 300 Head of black Cattle and 1500 Sheep taken from him, had several Houses burnt: That his Family was stript, his House plunder'd, and his only son had above twenty wounds given him by the Irish Army.</p>
+               <p>That in consideration of his said Services and Sufferings, and of his being next Protestant heir to <hi>Hugoline Spencer</hi> Attainted; His Majesty was pleased to Grant the Forfeited Estate of the said <hi>Hugoline</hi> to the Petitioner in 1697, now set at Sixty Pounds <hi>per Ann.</hi>
+               </p>
+               <p>That there is a Claim heard and allow'd as an Incumbrance of 300<hi>l.</hi> absolute, on the said Estate, and 200 <hi>l.</hi> more in case <hi>Hugoline</hi> who is very old and unmarried, dies without issue Male.</p>
+               <p>That the Petitioner has expended near the sum mention'd in his Petition, in making Jorneys into <hi>England</hi> to procure his Grant, in passing his Patent in <hi>Ireland,</hi> and in building a House and planting an Orchard on the premises, so that his Grant has hitherto been a Charge to him and not an Advantage, All which they submit to this Honorable house.</p>
+               <p>And the Petitioner humbly hopes this Honorable House will be pleased to take his Case into consideration, and re<g ref="char:EOLhyphen"/>establish him in his said Estate, or otherwise releive him as to your great wisdoms shall seem meet.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:188581:2"/>
+            <p>THE CASE OF <hi>William Spencer,</hi> Esq;</p>
+            <pb facs="tcp:188581:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
